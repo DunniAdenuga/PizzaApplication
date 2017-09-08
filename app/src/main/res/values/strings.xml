@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PizzaApplication</string>
+    <string name="pizzaLogo">Pizza App!</string>
+    <string name="button_start">Start</string>
+    <string name="customer_Name">Enter your name</string>
+    <string name="possibleToppings">Possible Toppins\'</string>
+    <string name="check_topping1">onions</string>
+    <string name="check_topping2">chicken</string>
+    <string name="check_topping3">sauce</string>
+    <string name="crustCharacteristics">Crust Xteristics\'</string>
+    <string name="check_crust1">thin</string>
+    <string name="check_crust2">filled</string>
+    <string name="check_crust3">normal</string>
+    <string name="displayCostMsg">The cost of your pizza is:</string>
+</resources>
