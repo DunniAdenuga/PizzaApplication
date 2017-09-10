@@ -12,4 +12,5 @@
     <string name="check_crust2">filled</string>
     <string name="check_crust3">normal</string>
     <string name="displayCostMsg">The cost of your pizza is:</string>
+    <string name="standardPizzaCost">10.00</string>
 </resources>
