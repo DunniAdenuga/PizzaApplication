@@ -25,7 +25,7 @@ public class SelectionsActivity extends AppCompatActivity {
 
     }
 
-    /** Called when the user taps the ok button*/
+    /** Called when the user taps the ok button*///This is not necessary but i don't want to change it yet, later!
     public void costMessage(View view){
         // Do something in response to ok button
         Intent intent = new Intent(this, DisplayMessageActivity.class);
@@ -50,9 +50,9 @@ public class SelectionsActivity extends AppCompatActivity {
 
         if(checkBox4.isChecked())
             fullcost = fullcost + 2.25;
-        else if(checkBox5.isChecked())
+        if(checkBox5.isChecked())
             fullcost = fullcost +2.25;
-        else if(checkBox6.isChecked())
+        if(checkBox6.isChecked())
             fullcost = fullcost + 1.00;
 
 
